@@ -35,11 +35,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [rails-react-back-en] <a name="about-project"></a>
 
 > its a simple start to connect rails with react
 
-**[your_project__name]** is a...
+**[your_project__name]** its a simple back-end api
+
+## the link for the React-front-end [here](https://github.com/Alzubair98/hello-react-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
